@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Frontend%20Developer&fontColor=ffffff&fontSize=48&desc=Building%20Modern%20Web%20Applications&descAlignY=62" width="100%"/>
 </p>
 
 <h1 align="center">Md Ashikur Rahman</h1>
