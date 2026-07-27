@@ -102,12 +102,10 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 ---
 
-# 📈 GitHub Activity Graph
+## 📈 GitHub Activity Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arashik65&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
