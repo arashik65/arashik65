@@ -7,7 +7,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Md+Ashikur+Rahman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B,+I'm+Md+Ashikur+Rahman;Frontend+Developer;React+%7C+Next.js+Developer" alt="Typing SVG" />
 </p>
 
 
