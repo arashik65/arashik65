@@ -31,7 +31,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 - 💻 Passionate about Web Development
 - 🌱 Currently learning **Next.js, TypeScript & MongoDB**
 - 🚀 Working on MERN Stack Projects
-- 🔐 Exploring Authentication with JWT & Firebase
+- 🔐  Learning Authentication & Authorization using Better Auth and JWT
 - 📚 Improving Problem Solving Skills
 - 🎯 Goal: Become a Professional Software Engineer
 
