@@ -140,9 +140,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 # 👀 Profile Views
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
-
+  <img src="https://komarev.com/ghpvc/?username=arashik65&label=Visitors&color=blueviolet&style=flat-square" />
 </p>
 
 ---
