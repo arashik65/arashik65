@@ -91,11 +91,12 @@ Passionate about building modern, responsive, and user-friendly web applications
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=arashik65&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img width="32%" src="https://streak-stats.demolab.com?user=arashik65&theme=tokyonight&hide_border=true" />
-  
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arashik65&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arashik65&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arashik65&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arashik65&theme=tokyonight" />
 </p>
 
 ## 📈 GitHub Activity Graph
