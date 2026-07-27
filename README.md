@@ -6,18 +6,10 @@
 </p>
 
 
-<p align="center">
-  <img src="./assets/banner.png" width="100%" />
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1000&color=00BFFF&center=true&vCenter=true&width=950&lines=Md+Ashikur+Rahman;💻+Frontend+Developer;⚛️+React+%7C+Next.js+%7C+Node.js;🚀+MERN+Stack+Learner;✨+Turning+Ideas+Into+Interactive+Web+Experiences" alt="Typing SVG" />
-</p>
-<h1 align="center">Md Ashikur Rahman</h1>
 
-<h3 align="center">
-Frontend Developer | MERN Stack Learner | CSE Student
-</h3>
+
+
 
 ---
 
