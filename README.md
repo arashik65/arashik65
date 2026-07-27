@@ -4,13 +4,15 @@
     width="100%"
   />
 </p>
+
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Md+Ashikur+Rahman;Frontend+Developer;MERN+Stack+Learner;Passionate+Web+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
-  </a>
+  <img src="./assets/banner.png" width="100%" />
 </p>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1000&color=00BFFF&center=true&vCenter=true&width=950&lines=Md+Ashikur+Rahman;💻+Frontend+Developer;⚛️+React+%7C+Next.js+%7C+Node.js;🚀+MERN+Stack+Learner;✨+Turning+Ideas+Into+Interactive+Web+Experiences" alt="Typing SVG" />
+</p>
 <h1 align="center">Md Ashikur Rahman</h1>
 
 <h3 align="center">
