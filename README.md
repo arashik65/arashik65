@@ -76,11 +76,9 @@ Passionate about building modern, responsive, and user-friendly web applications
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://facebook.com/YOUR_FACEBOOK">
-<img src="https://skillicons.dev/icons?i=facebook"/>
-</a>
 
-<a href="mailto:mdashikur6398@gmail.com">
+
+<a href="mdashikur6398@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
