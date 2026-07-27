@@ -1,50 +1,69 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner" width="100%">
+</p>
 
-# Hi 👋, I'm Md Ashikur Rahman
+<h1 align="center">Md Ashikur Rahman</h1>
 
-### 💻 Frontend Developer | MERN Stack Learner | CSE Student
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=220&text=Md%20Ashikur%20Rahman&fontSize=50&fontColor=3B82F6&desc=Turning%20Ideas%20Into%20Interactive%20Web%20Experiences"/>
-
-</div>
+<h3 align="center">
+Frontend Developer | MERN Stack Learner | CSE Student
+</h3>
 
 ---
 
-## 🚀 About Me
+# 💻 Frontend Developer
 
-- 🎓 BSc in Computer Science & Engineering
+### 👨‍💼 Junior Frontend Developer
+
+Passionate about building modern, responsive, and user-friendly web applications using JavaScript technologies. I enjoy solving real-world problems, learning new technologies, and continuously improving my development skills.
+
+---
+
+# 👨‍💻 About Me
+
+- 🎓 B.Sc. in Computer Science & Engineering
 - 💻 Passionate about Web Development
-- 🌱 Currently learning **Next.js, Node.js, Express.js & MongoDB**
-- 🔥 Exploring MERN Stack Development
+- 🌱 Currently learning **Next.js, TypeScript & MongoDB**
+- 🚀 Working on MERN Stack Projects
+- 🔐 Exploring Authentication with JWT & Firebase
+- 📚 Improving Problem Solving Skills
 - 🎯 Goal: Become a Professional Software Engineer
 
 ---
 
-## 🛠️ Tech Stack
+# 📍 Contact
+
+📍 Dhaka, Bangladesh
+
+📧 mdashikur6398@gmail.com
+
+---
+
+# 🛠️ Tech Stack
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,npm,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,npm,figma"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p>
+
 <a href="https://github.com/YOUR_USERNAME">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
@@ -53,72 +72,98 @@
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://facebook.com/YOUR_FACEBOOK">
+<img src="https://skillicons.dev/icons?i=facebook"/>
 </a>
-</p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<a href="mailto:mdashikur6398@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
 </p>
 
 ---
 
-## 📈 Most Used Languages
+# 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+<img width="32%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📉 Contribution Graph
+# 📈 GitHub Activity Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🚀 Current Activities
+
+- 🌱 Exploring Next.js App Router
+- 💻 Building Full Stack MERN Applications
+- 🔐 Learning Authentication with JWT
+- 📚 Practicing Problem Solving Regularly
+- 🎯 Working Towards Becoming a Professional Software Engineer
+
+---
+
+# 💡 Random Dev Quote
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15"/>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 </p>
 
 ---
 
-## 🔥 Current Focus
+# 🎯 Goals for 2026
 
-- 🚀 Learning Next.js
-- 💻 Building MERN Projects
-- 📚 Improving Problem Solving
-- 🌍 Open Source Contributions
-
----
-
-## 🎯 Goals
-
-- ✅ Master MERN Stack
-- ✅ Learn TypeScript
-- ✅ Build Scalable Projects
-- ✅ Get Software Engineer Job
+- ✅ Master MERN Stack Development
+- 🚀 Build Production Ready Applications
+- 🌍 Contribute to Open Source Projects
+- 🧠 Improve DSA & Problem Solving Skills
+- 💼 Land a Professional Software Engineer Job
 
 ---
 
-<div align="center">
+# 👀 Profile Views
 
-### 💡 Quote
+<p align="center">
 
-> **"First, solve the problem. Then, write the code."** – John Johnson
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> **"First, solve the problem. Then, write the code."** — John Johnson
+
+---
+
+<p align="center">
 
 ⭐ If you like my work, don't forget to star my repositories!
 
+</p>
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Follow%20Me-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
