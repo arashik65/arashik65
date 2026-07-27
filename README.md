@@ -69,20 +69,30 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 # 🌐 Connect With Me
 
-<p>
+<p align="left">
 
-<a href="https://github.com/arashik65">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/arashik65" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/md-ashikur-rahman/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
+<a href="https://YOUR-PORTFOLIO.vercel.app" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel" />
+</a>
 
+<a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
+  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="48" height="48" />
+</a>
 
-<a href="mdashikur6398@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="https://discord.com/users/YOUR_DISCORD_USER_ID" target="_blank">
+  <img src="https://skillicons.dev/icons?i=discord" />
+</a>
+
+<a href="mailto:mdashikur6398@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </p>
