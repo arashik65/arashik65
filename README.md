@@ -1,9 +1,10 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:06B6D4&height=280&section=header&text=Md%20Ashikur%20Rahman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20MERN%20Stack%20Learner&descSize=20&descAlignY=60"
+    src="https://capsule-render.vercel.app/api?type=rounded&height=260&color=gradient&text=Md%20Ashikur%20Rahman&fontSize=40&fontColor=ffffff&desc=Frontend%20Developer%20•%20MERN%20Stack%20Learner&descSize=18&animation=fadeIn"
     width="100%"
   />
 </p>
+
 
 <h1 align="center">Md Ashikur Rahman</h1>
 
