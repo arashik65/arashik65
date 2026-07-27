@@ -1,20 +1,9 @@
-<!-- <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rounded&height=260&color=gradient&text=Md%20Ashikur%20Rahman&fontSize=40&fontColor=ffffff&desc=Frontend%20Developer%20•%20MERN%20Stack%20Learner&descSize=18&animation=fadeIn"
-    width="100%"
-  />
-</p> -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=320&color=0:6C63FF,50:38BDF8,100:A7F3D0&text=Md%20Ashikur%20Rahman&fontSize=52&fontColor=ffffff&fontAlignY=46&desc=Frontend%20Developer%20%7C%20Web%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=62&descSize=24" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Md+Ashikur+Rahman"
-      alt="Typing SVG"
-    />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Md+Ashikur+Rahman" alt="Typing SVG" />
 </p>
 
 
